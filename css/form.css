@@ -1,0 +1,12 @@
+body {  
+    background-image: url('/Recursos/fondo.jpg');
+    background-size: cover;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #80ecbf,#55ce36e4);
+  }
+
+  .glyphicon-log-in{
+    font-size: 400%;
+    color: #55ce36e4;
+    text-shadow: 6px 6px 6px #0b8000;
+  }
